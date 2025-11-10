@@ -9,4 +9,4 @@ gem "jekyll-github-metadata", :github => "jekyll/github-metadata"
 
 gem "jekyll-remote-theme"
 
-run: bundle install
+run bundle install
