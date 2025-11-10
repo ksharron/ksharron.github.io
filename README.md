@@ -4,7 +4,7 @@
 ## Projects
 ### Project 1
 - Description
-- [linkedin](https://www.linkedin.com/kyliemsharron)
+- [linkedin](https://www.linkedin.com/in/kyliemsharron/)
 
 ### Project 2
 - Description
