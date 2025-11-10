@@ -8,3 +8,5 @@ gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
 gem "jekyll-github-metadata", :github => "jekyll/github-metadata"
 
 gem "hitchens-theme"
+
+gem "jekyll-paginate"
