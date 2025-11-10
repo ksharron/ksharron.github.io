@@ -4,3 +4,4 @@ description: yet another attempt at online portfolio
 #show_downloads: true
 theme: hitchens-theme
 ignore_theme_config: true
+$ gem install hitchens-theme
