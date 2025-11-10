@@ -5,3 +5,9 @@ description: yet another attempt at online portfolio
 theme: hitchens-theme
 ignore_theme_config: true
 $ gem install hitchens-theme
+
+plugins:
+  - jekyll-paginate
+
+paginate: 20
+paginate_path: "/xyz/:8/"
