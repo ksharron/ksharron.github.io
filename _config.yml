@@ -2,8 +2,4 @@ title: try again
 logo: docs/assets/IMG_9798.HEIC
 description: yet another attempt at online portfolio
 #show_downloads: true
-
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: ksharron/hitchens
+theme: hitchens-theme
