@@ -1,13 +1,8 @@
-title: try again
+title: Kylie Sharron
 logo: docs/assets/IMG_9798.HEIC
-description: yet another attempt at online portfolio
+description: Yet another attempt at an online portfolio
 #show_downloads: true
 theme: hitchens-theme
 ignore_theme_config: true
 $ gem install hitchens-theme
 
-plugins:
-  - jekyll-paginate
-
-paginate: 20
-paginate_path: "/xyz/:8/"
